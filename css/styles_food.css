@@ -1,0 +1,38 @@
+.top-container{
+  background-color:#2a52be;
+  padding-top: 10px;
+}
+.middle-container-2{
+  display: table;
+}
+
+.bottom-container{
+ background-color: #F8F8FF;
+ padding: 100px 0 20px;
+ text-align: right;
+}
+
+.leftbox{
+  float: left;
+  height: 50px;
+  width:30%;
+}
+.middlebox{
+  float: left;
+  height: 50px;
+  width:30%;
+}
+.rightbox{
+  float: right;
+  height: 200px;
+  width:30%;
+}
+.bottombox{
+  float: left;
+  height: 50px;
+  width:30%;
+}
+.Burger{
+  height: 30%;
+  width: 30%;
+}
